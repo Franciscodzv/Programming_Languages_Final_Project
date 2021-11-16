@@ -1,0 +1,10 @@
+TRUTH TABLE GENERATOR
+
+Main menu
+
+[1] Generate expression truth table
+[2] How to use the program
+[3] About the program
+[4] Exit
+
+Enter a number to select an option:

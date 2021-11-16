@@ -1,0 +1,17 @@
+TRUTH TABLE GENERATOR
+
+This program was developed as a final project
+for the Fundamentals of Programming class.
+
+Date: 12 / nov / 2018
+
+Programming language used: C
+
+Implemented by Adolfo Acosta Castro (A01705249) and Alberto Matute Beltran (A01704584)
+
+Some functions adapted from:
+https://www.geeksforgeeks.org/expression-evaluation/
+
+
+Adapted by Alberto Matute Beltran (A01704584) for purposes of 
+demonstrating logic for the programming languages ​​course 15/Nov/2021

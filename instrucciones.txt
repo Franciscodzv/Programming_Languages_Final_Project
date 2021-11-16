@@ -1,0 +1,27 @@
+
+TRUTH TABLE GENERATOR
+
+This program allows you to enter a logical expression
+and generate your truth table.
+
+To use the program you must take into account the following considerations:
+
+-You must enter a well structured logical formula.
+
+-The propositional variables can be any letter
+ uppercase or lowercase alphabet, except for T and F.
+
+-T is interpreted as the constant True and
+-F is interpreted as the constant False
+
+-You cannot enter an expression with more than 6 logical variables
+
+-You can use parentheses to group
+
+-The following symbology is used for the logical operators:
+
+  Negation (NOT):     ~
+  Conjunction (AND):  &
+  Disjunction (OR):   |
+  Implication:	      >
+  Bimplication:       =
