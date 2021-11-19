@@ -241,7 +241,7 @@ int validar_expresion(char expresion[])
             return 0;
     }
 
-    //Pila para los valores (operandondos)
+    //Pila para los valores (operandos)
     int pila_val[MAX];
     //Tamaño de la pila de valores
     int tam_val = 0;
